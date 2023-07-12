@@ -1,5 +1,5 @@
 # Covid-19_dashboard
-
+Full video link: https://youtu.be/cTcaogefXQ4
 Maps:
 <img width="1433" alt="image" src="https://github.com/Srikanth0204/Covid-19_dashboard/assets/50506756/d6615789-6f9b-4c02-bb45-b28208758bf3">
 Bar Graph:
